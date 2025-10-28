@@ -100,13 +100,18 @@ Continue investment in Technology and Furniture while reevaluating underperformi
 
 ## How to Run the Project
 
-Clone the repositary:
-
-SQL query:
-
-Open and run notebook:
-
-Open and run dashboard:
+1. Clone the repositary:
+```bash
+git clone https://github.com/Aishwarya-mandal5/eCommerce-Sales-Analysis-SQL-Python-Powerbi.git
+```
+2. SQL query:
+```bash
+sql code e-Commerce SQL Query.pdf
+```
+3. Open and run notebook:
+  - `e-Commerce.ipynb`
+4. Open and run dashboard:
+  - `e-Commerce_Analysis_PowerBi.pbix`
 
 ## Recommendations
 
