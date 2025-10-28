@@ -20,22 +20,22 @@ The project demonstrate a comprehensive overview of e-commerce sales and order p
 
 ## Business Problems Identified
 
-High regional sales imbalance and overreliance on a few strong-performing areas.
-Excessive discounting strategies are eroding profit margins.
-Low customer retention and weak repeat purchase behavior.
-Limited market reach in several states is reducing overall growth potential.
-Limited uptake of premium/fast shipping options reduces potential revenue and customer satisfaction.
+- High regional sales imbalance and overreliance on a few strong-performing areas.
+- Excessive discounting strategies are eroding profit margins.
+- Low customer retention and weak repeat purchase behavior.
+- Limited market reach in several states is reducing overall growth potential.
+- Limited uptake of premium/fast shipping options reduces potential revenue and customer satisfaction.
 
 ## Data Set
 
-Dataset was taken from open source.
+Dataset was taken from open source. [Link](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
 ## Tools and Techniques
 
-Sql (Common Table Expression)
-Python (Pandas, Numpy, Matplot, Seaborn)
-Power BI (Interactive visualization)
-Github
+- Sql (Common Table Expression)
+- Python (Pandas, Numpy, Matplot, Seaborn)
+- Power BI (Interactive visualization)
+- Github
 
 ## Data Cleaning and Preparation
 
