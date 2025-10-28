@@ -95,6 +95,9 @@ Reward high-value buyers with exclusive offers or loyalty tiers, encouraging rep
 - Product Strategy Refinement:
 Continue investment in Technology and Furniture while reevaluating underperforming sub-categories for consolidation or targeted discounts.
 
+<img width="797" height="533" alt="e-Commerce Sales Analysis" src="https://github.com/user-attachments/assets/5d8ea578-a142-4ddd-98a8-51e78e3a5c5e" />
+<img width="798" height="536" alt="e-Commerce Order Analysis" src="https://github.com/user-attachments/assets/c2c945f1-dc47-481d-af72-91a1c0146c18" />
+
 ## How to Run the Project
 
 Clone the repositary:
